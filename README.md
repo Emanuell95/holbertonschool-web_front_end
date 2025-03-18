@@ -1,1 +1,1 @@
-# holbertonschool-web_front_end
+In this project I am starting to learn about front end working in the creation of a webpage!. The principal concepts to learn are HTML, CSS, and JavaScript.

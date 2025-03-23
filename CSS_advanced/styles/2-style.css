@@ -1,0 +1,30 @@
+/*This enable smooth scrolling*/
+html {
+    scroll-behavior: smooth;
+  }
+  
+  /* 1. Set the text (foreground) color for the entire body */
+body {
+    color: #161616;
+  }
+  
+  /* 2. Set the text (foreground) color for all anchor tags */
+  a {
+    color: #161616;
+  }
+  
+  /* 3. Hide elements with the class "visually-hidden" */
+  .visually-hidden {
+    display: none;
+  }
+  
+  /* 4. Set text color for elements with class "card-category" */
+  .card-category {
+    color: #D73953;
+  }
+  
+  /* 5. Set text color for elements with class "section-tagline" */
+  .section-tagline {
+    color: #D73953;
+  }
+  

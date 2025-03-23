@@ -1,4 +1,4 @@
-/*  Making custom properties in root element,
+/*  Making custom properties in root element
     Creating new declaration with all section headings
 */
 html {
@@ -29,7 +29,7 @@ body {
     color: var(--text-color);
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
-    font-weight-regular: var(--font-weight-regular);
+    font-weight: var(--font-weight-regular);
 }
 
 h1, h2, h3, h4, h5, h6 {

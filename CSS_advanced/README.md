@@ -1,0 +1,1 @@
+In this project I will be working with CSS which is important for the layout of webpages, here I apply essential concepts like class, id. I work with selectors as child selectors, hierarchy of the selectors and more.
